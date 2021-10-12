@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaozersky
+- 👋 Hi, I’m Julian
 - 👀 I’m interested in math and programming
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on develop kid education games
