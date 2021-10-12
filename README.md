@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on develop kid education games
 - 📫 How to reach me:
 Skype: j.zaozersky
+
 Telegram: @jzaozersky
 
 <!---
