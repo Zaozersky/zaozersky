@@ -5,7 +5,6 @@
 - Hobby: chess and tabble tennis
 - 📫 How to reach me:
 - Skype: j.zaozersky
-- Telegram: @jzaozersky
 
 <!---
 zaozersky/zaozersky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
