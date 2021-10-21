@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian
 - 👀 I’m interested in math and programming
-- I’m currently learning ML/DL/HFFT
+- I’m currently learning ML/DL/HFFT/QFT
 - I’m looking to collaborate on mobile applications using AI
 - Hobby: chess and tabble tennis
 - 📫 How to reach me:
