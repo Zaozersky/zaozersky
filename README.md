@@ -3,8 +3,7 @@
 - I’m currently learning ML/DL/HFFT/QFT
 - I’m looking to collaborate on mobile applications using AI
 - Hobby: chess and tabble tennis
-- 📫 How to reach me:
-- Skype: j.zaozersky
+- 📫 How to reach me by skype: j.zaozersky
 
 <!---
 zaozersky/zaozersky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
