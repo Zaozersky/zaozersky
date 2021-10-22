@@ -1,5 +1,5 @@
 - :hand: Hi, I’m Julian
-- I’m interested in math and programming
+- :dna: I’m interested in math and programming
 - :rocket: I’m currently learning ML/DL/HFFT/QFT
 - :hammer: I’m looking to collaborate on mobile applications using AI
 - :ping_pong: Hobby: chess and tabble tennis
