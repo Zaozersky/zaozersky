@@ -1,7 +1,7 @@
 - :hand: Hi, I’m Julian
 - :dna: I’m interested in math, physics and programming
 - :rocket: I’m currently learning ML/DL/HFFT/QFT
-- :hammer: I’m looking to collaborate on mobile applications using AI
+- :hammer: I’m looking to collaborate on applications using AI
 - :ping_pong: Hobby: chess and tabble tennis
 - :mailbox_with_mail: How to reach me by skype: j.zaozersky
 
