@@ -2,7 +2,7 @@
 - :dna: I’m interested in math, physics and programming
 - :rocket: I’m currently learning ML/DL/HFFT/QFT
 - :hammer: I’m looking to collaborate on applications using AI
-- :ping_pong: Hobby: chess, tabble tennis and teaching in math club
+- :ping_pong: Hobby: chess, tabble tennis and teaching in math and programming club
 - :mailbox_with_mail: How to reach me by skype: j.zaozersky
 
 <!---
